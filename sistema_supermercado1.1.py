@@ -2,10 +2,9 @@
 # importações do programa
 import os
 
-# variáveis para rodar o programa corretamente, NÃO MEXER
+# NÃO MEXA NESSA PARTE DE CIMA, PELO AMOR DE DEUS
 contador = 0
 titulo = 'NOME DA EMPRESA'
-# NÃO MEXA NESSA PARTE DE CIMA, PELO AMOR DE DEUS
 
 # programa
 while contador == 0:
