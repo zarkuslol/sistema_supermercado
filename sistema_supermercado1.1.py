@@ -4,13 +4,13 @@ import os
 
 # variáveis para rodar o programa corretamente, NÃO MEXER
 contador = 0
-soma = 0
 titulo = 'NOME DA EMPRESA'
-preco2 = 0
 # NÃO MEXA NESSA PARTE DE CIMA, PELO AMOR DE DEUS
 
 # programa
 while contador == 0:
+    soma = 0
+    preco2 = 0
     print('-=-' * 20)
     print(titulo.center(50))
     print('-=-' * 20)
